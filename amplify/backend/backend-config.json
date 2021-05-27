@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "learnreact7ff9b750": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
