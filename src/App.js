@@ -12,6 +12,7 @@ function App() {
       <p>I'm Mithilesh.</p>
       <h1>We now have Auth!</h1>
       <AmplifySignOut />
+      <Hello />
     </div>
   );
 }
