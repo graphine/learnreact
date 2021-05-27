@@ -7,6 +7,7 @@ function App() {
     <div className='App'>
       <Hello />
       <Greet name={1 + 1} heroName='Superman' />
+      <p>I'm Mithilesh.</p>
     </div>
   );
 }
